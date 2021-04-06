@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.06f7a90d.chunk.js",
-    "main.js.map": "/static/js/main.06f7a90d.chunk.js.map",
+    "main.js": "/static/js/main.5d30b823.chunk.js",
+    "main.js.map": "/static/js/main.5d30b823.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.54edee9e.js",
     "runtime-main.js.map": "/static/js/runtime-main.54edee9e.js.map",
-    "static/js/2.7cf3b9ed.chunk.js": "/static/js/2.7cf3b9ed.chunk.js",
-    "static/js/2.7cf3b9ed.chunk.js.map": "/static/js/2.7cf3b9ed.chunk.js.map",
+    "static/js/2.b7248b94.chunk.js": "/static/js/2.b7248b94.chunk.js",
+    "static/js/2.b7248b94.chunk.js.map": "/static/js/2.b7248b94.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2d5c2c0c5d13f4f3cb5ddf1a21e01776.js": "/precache-manifest.2d5c2c0c5d13f4f3cb5ddf1a21e01776.js",
+    "precache-manifest.38abb0ca8e7ac43045391984ec828c46.js": "/precache-manifest.38abb0ca8e7ac43045391984ec828c46.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7cf3b9ed.chunk.js.LICENSE": "/static/js/2.7cf3b9ed.chunk.js.LICENSE",
+    "static/js/2.b7248b94.chunk.js.LICENSE": "/static/js/2.b7248b94.chunk.js.LICENSE",
     "static/media/01-full.jpg": "/static/media/01-full.f8648487.jpg",
     "static/media/01-thumbnail.jpg": "/static/media/01-thumbnail.eda45981.jpg",
     "static/media/02-full.jpg": "/static/media/02-full.8fdb36b5.jpg",
@@ -80,6 +80,7 @@
     "static/media/carousel1.jpg": "/static/media/carousel1.69269244.jpg",
     "static/media/carousel2.jpg": "/static/media/carousel2.185fa20c.jpg",
     "static/media/carousel3.jpg": "/static/media/carousel3.2921eac9.jpg",
+    "static/media/cover.jpeg": "/static/media/cover.b103822c.jpeg",
     "static/media/gradient_descent.png": "/static/media/gradient_descent.b9117b99.png",
     "static/media/hackathons.jpg": "/static/media/hackathons.bbc152df.jpg",
     "static/media/historyDL.PNG": "/static/media/historyDL.a0234735.PNG",
@@ -97,8 +98,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.54edee9e.js",
-    "static/js/2.7cf3b9ed.chunk.js",
+    "static/js/2.b7248b94.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.06f7a90d.chunk.js"
+    "static/js/main.5d30b823.chunk.js"
   ]
 }
