@@ -18,6 +18,7 @@ import PaperDiscussions from './Pages/Initiatives/paperDiscussions';
 import Alumni from './Pages/Initiatives/alumni';
 import InterIIT from './Pages/Initiatives/interIIT';
 import MLRW from './Pages/MLRW';
+import Course from './Pages/Course';
 
 function NotFound() {
 	  return (
@@ -90,6 +91,11 @@ export default function MainPage() {
 				component = {Blogs}
 			/>
           	
+			<Route exact 
+				path = "/course"
+				component = {Course}
+			/> 
+
 			<Route exact
 				path = "/MLRW"
 				component = {MLRW}
