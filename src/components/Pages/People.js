@@ -52,7 +52,7 @@ class People extends Component{
 								</div>
 								<div class="col-lg-3">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/KonarkJain.jpg" alt="" />
+										<img class="mx-auto rounded-circle" src="img/team/KonarkJain.png" alt="" />
 										<h4>Konark Jain</h4>
 										<p class="text-muted">Co-founder of IITG.ai</p>
 										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
@@ -62,7 +62,7 @@ class People extends Component{
 								</div>
 								<div class="col-lg-3">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/ApoorvaKumar.jpg" alt="" />
+										<img class="mx-auto rounded-circle" src="img/team/ApoorvaKumar.png" alt="" />
 										<h4>Apoorva Kumar</h4>
 										<p class="text-muted">Co-founder of IITG.ai</p>
 										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
@@ -73,7 +73,7 @@ class People extends Component{
 							</div>
 							
 							<div class="row">
-								<div class="col-lg-12">
+								<div class="col-lg-6">
 									<div class="team-member">
 										<img class="mx-auto rounded-circle" src="img/team/AdityaMehndiratta.png" alt="" />
 										<h4>Aditya Mehndiratta</h4>
@@ -81,6 +81,16 @@ class People extends Component{
 										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
 										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
 										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								<div class="col-lg-6">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Neeraja.png" alt="" />
+										<h4>J. Neeraja</h4>
+										<p class="text-muted">Ex-Secretary</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/neerajajaja"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/neeraja.j.313"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/j-neeraja-74899355/"><i class="fab fa-linkedin-in"></i></a>
 									</div>
 								</div>
 							</div>
@@ -94,131 +104,179 @@ class People extends Component{
 							<div class="row">
 								<div class="col-lg-4">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Neeraja.png" alt="" />
-										<h4>J. Neeraja</h4>
+										<img class="mx-auto rounded-circle" src="img/team/Varun.png" alt="" />
+										<h4>Varun Yerram</h4>
 										<p class="text-muted">Secretary</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/neerajajaja"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/neeraja.j.313"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/j-neeraja-74899355/"><i class="fab fa-linkedin-in"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/Varun221"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/varun.yerram/"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/yvarun25221/"><i class="fab fa-linkedin-in"></i></a>
 									</div>
 								</div>
 								<div class="col-lg-4">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/AnimeshR.jpg" alt="" />
-										<h4>Animesh Renanse</h4>
-										<p class="text-muted">ML Head</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/WhenDustSettles"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/people/Animesh-Renanse/100006865980452"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/animesh-renanse-636047112/"><i class="fab fa-linkedin-in"></i></a>
-									</div>
-								</div>
-								<div class="col-lg-4">
-									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Yashwant.png" alt="" />
-										<h4>Yashwanth M</h4>
-										<p class="text-muted">CV Head</p>
-										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/yashwanth.m.93"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/yashwanth-m-982934169/"><i class="fab fa-linkedin-in"></i></a>
-									</div>
-								</div>
-							</div>
-							
-							<div class="row">
-								<div class="col-lg-4">
-									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Abhilash.png" alt="" />
-										<h4>Abhilash R. Shankarampeta</h4>
-										<p class="text-muted">NLP Head</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/abhilashreddys"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/abhilashreddy53"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/abhilashreddys/"><i class="fab fa-linkedin-in"></i></a>
-									</div>
-								</div>
-								<div class="col-lg-4">
-									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Vishisht.jpg" alt="" />
-										<h4>Vishisht Priyadarshi</h4>
-										<p class="text-muted">Web Development Head</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/vishishtpriyadarshi"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/vishisht.priyadarshi"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/vishisht-priyadarshi-34068b179/"><i class="fab fa-linkedin-in"></i></a>
-									</div>
-								</div>
-								<div class="col-lg-4">
-									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Dibyakanti.png" alt="" />
-										<h4>Dibyakanti Kumar</h4>
-										<p class="text-muted">Outreach & Open Source Head</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/Dibyakanti"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/dibyakanti.kumar"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/dibyakantik/"><i class="fab fa-linkedin-in"></i></a>
-									</div>
-								</div>
-							</div>
-							
-							<div class="row">
-								<div class="col-lg-4">
-									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Shrey.png" alt="" />
-										<h4>Shrey Jani</h4>
-										<p class="text-muted">Convenor (ML reasearch Day)</p>
-										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/shrey.jani.7"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/shrey-jani-1936ba1a1/"><i class="fab fa-linkedin-in"></i></a>
-									</div>
-								</div>
-								<div class="col-lg-4">
-									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/MalePlaceholder.jpg" alt="" />
-										<h4>Shivansh Mishra</h4>
-										<p class="text-muted">Team Member & Web Developer</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/ShivanshMishra18/"><i class="fab fa-github"></i></a>
+										<img class="mx-auto rounded-circle" src="img/team/Gourav.png" alt="" />
+										<h4>Gourav Kumar</h4>
+										<p class="text-muted">CV Head & WebD Head</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/Gourav2K"><i class="fab fa-github"></i></a>
 										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://in.linkedin.com/in/shivanshmishra"><i class="fab fa-linkedin-in"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/gourav2k/"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+							<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Bhavnick.png" alt="" />
+										<h4>Bhavnick Minhas</h4>
+										<p class="text-muted">NLP Head</p>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								</div>							
+							<div class="row">
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Manan.png" alt="" />
+										<h4>Manan Kakkar</h4>
+										<p class="text-muted">Data Science Head</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/manankakkar13"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/profile.php?id=100010357953977"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/manan-kakkar/"><i class="fab fa-linkedin-in"></i></a>
 									</div>
 								</div>
 								<div class="col-lg-4">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Kousik.png" alt="" />
-										<h4>Kousik Rajesh</h4>
-										<p class="text-muted">Core Team Member</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/kousikr26/"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/kousikrajesh"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/kousik-rajesh/"><i class="fab fa-linkedin-in"></i></a>
+										<img class="mx-auto rounded-circle" src="img/team/Aishik.png" alt="" />
+										<h4>Aishik Raksit</h4>
+										<p class="text-muted">Deep Learning Head</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/aishik-rakshit"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/Aishk.rakshit112358"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/a-rakshit/"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+							<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Rishon.png" alt="" />
+										<h4>Rishon Dsouza</h4>
+										<p class="text-muted">ML Head</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/rishondz"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/rishon.dsouza.37/"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/rishon-dsouza-951012199/"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								</div>
+							
+							<div class="row">
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Aayush.png" alt="" />
+										<h4>Aayush Sharma</h4>
+										<p class="text-muted">Events Head</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/aayush9753"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/profile.php?id=100006823692471"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/aayushsharma9753/"><i class="fab fa-linkedin-in"></i></a>
 									</div>
 								</div>
 								<div class="col-lg-4">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Animesh.png" alt="" />
-										<h4>Animesh Tiwari</h4>
+										<img class="mx-auto rounded-circle" src="img/team/Aakif.png" alt="" />
+										<h4>Aakif Akhtar</h4>
 										<p class="text-muted">Core Team Member</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/animeshrdso"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/animesh.tiwari.39/&sa=D&ust=1594027055067000&usg=AFQjCNHp7guSL7OOLAVuNA_fRjtoxxl7uA"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/animesh-tiwari-353957179/"><i class="fab fa-linkedin-in"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/aakif-akhtar"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/aakif.akhtar.2000/"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/aakif-akhtar/"><i class="fab fa-linkedin-in"></i></a>
 									</div>
 								</div>
 								<div class="col-lg-4">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Eshwar.png" alt="" />
-										<h4>Eshwar Nukala</h4>
+										<img class="mx-auto rounded-circle" src="img/team/Akshat.png" alt="" />
+										<h4>Akshat Sinha</h4>
 										<p class="text-muted">Core Team Member</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/eshwar28"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/eshwar.nukala.9"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/eshwar-nukala-a187361a6/"><i class="fab fa-linkedin-in"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/akshat-12"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/akshat.sinha.319/"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/akshat-sinha-576343197/"><i class="fab fa-linkedin-in"></i></a>
 									</div>
 								</div>
 								<div class="col-lg-4">
 									<div class="team-member">
-										<img class="mx-auto rounded-circle" src="img/team/Amit.jpg" alt="" />
-										<h4>Amit Rai</h4>
+										<img class="mx-auto rounded-circle" src="img/team/Amey.png" alt="" />
+										<h4>Amey Rambatla</h4>
 										<p class="text-muted">Core Team Member</p>
-										<a class="btn btn-dark btn-social mx-2" href="https://github.com/amitrai12018"><i class="fab fa-github"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/profile.php?id=100011431753334"><i class="fab fa-facebook-f"></i></a>
-										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/amit-rai-12018"><i class="fab fa-linkedin-in"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/Ameybot"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/amey.tripleh"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/amey-rambatla"><i class="fab fa-linkedin-in"></i></a>
 									</div>
 								</div>
-								
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Anant.png" alt="" />
+										<h4>Anant Shankhdhar</h4>
+										<p class="text-muted">Core Team Member</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/AnantShankhdhar"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/anant.shankhdhar.902"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/anantshankhdhar/"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Ashwin.png" alt="" />
+										<h4>Ashwin Rajendran</h4>
+										<p class="text-muted">Core Team Member</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/ashwinr1147"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/ashwinr11"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/ashwin-rajendran-0a97ab207/"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Debarshi.png" alt="" />
+										<h4>Debarshi Chanda</h4>
+										<p class="text-muted">Core Team Member</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/DebarshiChanda"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/debarshi.chanda.3"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/debarshi-chanda/"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Francis.png" alt="" />
+										<h4>Francis Saikia</h4>
+										<p class="text-muted">Core Team Member</p>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Shreya.png" alt="" />
+										<h4>Shreya Sajal</h4>
+										<p class="text-muted">Core Team Member</p>
+										<a class="btn btn-dark btn-social mx-2" href="https://github.com/shreyasajal"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/shreyasajal/"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Venkatesh.png" alt="" />
+										<h4>Venkatesh Kulkarni</h4>
+										<p class="text-muted">Core Team Member</p>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
+								<div class="col-lg-4">
+									<div class="team-member">
+										<img class="mx-auto rounded-circle" src="img/team/Shweta.png" alt="" />
+										<h4>Shweta Bindal</h4>
+										<p class="text-muted">Core Team Member</p>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+										<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+									</div>
+								</div>
 							</div>
 						</div>
 					</section>

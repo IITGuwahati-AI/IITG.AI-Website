@@ -26,7 +26,7 @@ class Footer extends React.Component {
 						<div class="col-md-4 text-center text-md-left ">
 
 							<div class="py-2">
-								<h3 class="my-4 text-white">Developed by </h3> <a href="https://www.linkedin.com/in/vishisht-priyadarshi-34068b179/"> Vishisht Priyadarshi</a> & <a href="https://in.linkedin.com/in/shivanshmishra">Shivansh Mishra</a>
+								<h3 class="my-4 text-white">Developed by </h3> <a href="https://www.linkedin.com/in/vishisht-priyadarshi-34068b179/"> Vishisht Priyadarshi</a>, <a href="https://in.linkedin.com/in/shivanshmishra">Shivansh Mishra</a> & <a href="https://in.linkedin.com/in/gourav2k">Gourav Kumar</a>
 								<h3 class="my-4 text-white">Maintained by <span class="mx-2 font-italic text-warning ">IITG.ai</span></h3>
 								{/*<span class="mx-2 font-italic text-warning ">IITG.ai</span>*/}
 								{/*<p class="footer-links font-weight-bold">

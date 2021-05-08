@@ -18,7 +18,14 @@ import PaperDiscussions from './Pages/Initiatives/paperDiscussions';
 import Alumni from './Pages/Initiatives/alumni';
 import InterIIT from './Pages/Initiatives/interIIT';
 import MLRW from './Pages/MLRW';
-import Course from './Pages/Course';
+import Course_week_1 from './Pages/Course_week_1';
+import Course_week_2 from './Pages/Course_week_2';
+import Course_week_3 from './Pages/Course_week_3';
+import Course_week_4 from './Pages/Course_week_4';
+import Course_week_5 from './Pages/Course_week_5';
+import Course_week_6 from './Pages/Course_week_6';
+import Course_week_7 from './Pages/Course_week_7';
+import Publications from './Pages/Publications';
 
 function NotFound() {
 	  return (
@@ -80,6 +87,11 @@ export default function MainPage() {
 				path = "/paperdiscussions" 
 				component = {PaperDiscussions} 
 			/>
+
+			<Route exact 
+				path = "/publications" 
+				component = {Publications}
+			/> 
 			
 			<Route exact 
 				path = "/interIIT"
@@ -92,9 +104,39 @@ export default function MainPage() {
 			/>
           	
 			<Route exact 
-				path = "/course"
-				component = {Course}
-			/> 
+				path = "/course/week1"
+				component = {Course_week_1}
+			/>
+			
+			<Route exact 
+				path = "/course/week2"
+				component = {Course_week_2}
+			/>	
+
+			<Route exact 
+				path = "/course/week3"
+				component = {Course_week_3}
+			/>
+
+			<Route exact 
+				path = "/course/week4"
+				component = {Course_week_4}
+			/>
+
+			<Route exact 
+				path = "/course/week5"
+				component = {Course_week_5}
+			/>			
+
+			<Route exact 
+				path = "/course/week6"
+				component = {Course_week_6}
+			/>			
+
+			<Route exact 
+				path = "/course/week7"
+				component = {Course_week_7}
+			/>
 
 			<Route exact
 				path = "/MLRW"
