@@ -26,6 +26,7 @@ import Course_week_5 from './Pages/Course_week_5';
 import Course_week_6 from './Pages/Course_week_6';
 import Course_week_7 from './Pages/Course_week_7';
 import Publications from './Pages/Publications';
+import Hackathon_results from './Pages/hackathon_results';
 
 function NotFound() {
 	  return (
@@ -142,6 +143,11 @@ export default function MainPage() {
 				path = "/MLRW"
 				component = {MLRW}
 			/>
+
+			<Route exact
+				path = "/hackathon_results"
+				component = {Hackathon_results}
+			/>			
 			
 			<Route exact
 				path = "**" 

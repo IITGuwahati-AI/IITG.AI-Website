@@ -142,11 +142,32 @@ class PageWrapper extends Component {
 									<Link class="nav-link" to="/calendar">Calendar</Link>
 								</li> */}
 
-              <li class="nav-item">
+{/*               <li class="nav-item">
                 <Link class="nav-link" to="/course/week1">
                   Course
                 </Link>
-              </li>
+              </li> */}
+
+              <li class="nav-item dropdown">
+                <Link
+                  class="nav-link dropdown-toggle"
+                  to="/initiatives"
+                  role="button"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Course
+                </Link>
+                <div class="dropdown-menu bg-dark">
+                  <Link class="dropdown-item bg-dark" to="/course/week1">
+                    Contents
+                  </Link>
+                  <Link class="dropdown-item bg-dark" to="/hackathon_results">
+                    Hackathon Results
+                  </Link>
+                </div>
+              </li>              
 
               <li class="nav-item">
                 <Link class="nav-link" to="/contact">

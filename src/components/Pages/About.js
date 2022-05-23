@@ -52,10 +52,20 @@ We aim to provide a platform for like-minded people to come together and discuss
 											title={"Aditya Mehndiratta"}
 											image={"team/AdityaMehndiratta2.jpeg"}
 											link={null}
-											subtitle={"Ex-Secretary, 4th year"}
+											subtitle={"Ex-Secretary, Data Scientist at Microsoft"}
 											description={"IITG.ai is an amazing amalgamation of people with varied interests. For some it is the mathematics that is intriguing while for some it is the code and application of AI. I think these varied interests are what makes this group special.Born out of a frustration in the lack of an AI culture in IITG, I believe that this group has an immense responsibility in taking a lead role in eliminating the high barrier required to excel in this field. In such a short span of time (barely 2 years since we started) we have seen a massive jump in participation and activities. From a mere handful of members we are more than a group of 20 now! Today,we have regular paper discussion ,courses and projects all running in parallel. The rise of IITG.ai has been phenomenal and something I can be truly proud of. I am sure that the current batch of enthusiastic members will set the bar even higher and churn out some incredible AI talent in the days to come."}
 											col={"12"}
 											key={"2"}
+									    />
+										<PortfolioItem  
+											header={null}
+											title={"J. Neeraja"}
+											image={"team/Neeraja.png"}
+											link={null}
+											subtitle={"Ex-Secretary, 4th Year"}
+											description={"During my time at IITG.ai, I got to learn, work, connect with a wide range of people including my own peers, seniors, and various mentors and I shall forever be grateful for that. It was indeed a pleasure to lead IITG.ai."}
+											col={"12"}
+											key={"3"}
 									    />
 								</div>
 							</div>

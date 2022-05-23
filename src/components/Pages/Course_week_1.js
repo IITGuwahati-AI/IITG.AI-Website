@@ -20,22 +20,22 @@ class Course_week_1 extends Component {
                     <a href="#/course/week1">Week 1</a>
                   </th>
                   <th>
-                    <a href="#/course/week1">Week 2</a>
+                    <a href="#/course/week2">Week 2</a>
                   </th>
                   <th>
-                    <a href="#/course/week1">Week 3</a>
+                    <a href="#/course/week3">Week 3</a>
                   </th>
                   <th>
-                    <a href="#/course/week1">Week 4</a>
+                    <a href="#/course/week4">Week 4</a>
                   </th>
                   <th>
-                    <a href="#/course/week1">Week 5</a>
+                    <a href="#/course/week5">Week 5</a>
                   </th>
                   <th>
-                    <a href="#/course/week1">Week 6</a>
+                    <a href="#/course/week6">Week 6</a>
                   </th>
                   <th>
-                    <a href="#/course/week1">Week 7</a>
+                    <a href="#/course/week7">Week 7</a>
                   </th>
                 </tr>
               </thead>
@@ -135,7 +135,7 @@ class Course_week_1 extends Component {
                   <th scope="row">Day 2</th>
                   <td>Python Data Structures like Dictionary and insight into the OS Library</td>
                   <td><p><a href = "https://github.com/anandprabhakar0507/Python-dictionary-tutorial/blob/master/2.3_Dictionaries.ipynb" target="blank">Python Dictionary</a></p></td>
-                  <td><p><a href = "https://numpy.org/numpy-tutorials/content/save-load-arrays.html" target="blank">OS Module</a></p></td>
+                  <td><p><a href = "https://www.tutorialsteacher.com/python/os-module" target="blank">OS Module</a></p></td>
                   <td>-</td>
                 </tr>
                 <tr>
@@ -143,7 +143,7 @@ class Course_week_1 extends Component {
                   <td>A complete walkthrough of the very essential Numpy Library</td>
                   <td><p><a href = "https://youtu.be/GB9ByFAIAH4" target="blank">Numpy - Part 1</a></p></td>
                   <td><p><a href = "https://cs231n.github.io/python-numpy-tutorial/" target="blank">Numpy - Part 2</a></p></td>
-                  <td><p><a href = "https://www.tutorialsteacher.com/python/os-module" target="blank">Numpy - Part 3</a></p></td>
+                  <td><p><a href = "https://numpy.org/numpy-tutorials/content/save-load-arrays.html"  target="blank">Numpy - Part 3</a></p></td>
                 </tr>
                 <tr>
                   <th scope="row">Day 4</th>
@@ -162,21 +162,21 @@ class Course_week_1 extends Component {
                 <tr>
                   <th scope="row">Day 6</th>
                   <td>A walkthrough of the Matplotlib Library, a multi-platform data visualization library built on NumPy arrays</td>
-                  <td><p><a href = "https://youtu.be/yZTBMMdPOww" target="blank">Matplotlib</a></p></td>
+                  <td><p><a href = "https://www.kaggle.com/prashant111/matplotlib-tutorial-for-beginners" target="blank">Matplotlib Beginner notebook 1</a></p></td>
                   <td>
-                    <p><a href = "https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python" target="blank">Matplotlib - Kaggle Notebook</a></p>
+                    <p><a href = "https://www.kaggle.com/sanikamal/data-visualization-using-matplotlib" target="blank">Matplotlib Beginner notebook 2</a></p>
                   </td>
-                  <td></td>
+                  <td><p><a href="https://matplotlib.org/stable/tutorials/index.html#" target="blank">Matplotlib Documentation</a></p></td>
                 </tr>
                 <tr className="active-row blue">
                   <th scope="row">Additional Resources</th>
                   <td>Extra Resources - Be above the Rest</td>
                   <td><p><a href = "https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU" target="blank">Python - Remaining</a><br></br>
-                  <a href = "https://www.datacamp.com/community/tutorials/installing-anaconda-windows" target="blank">Python</a>
+                  <a href = "https://developers.google.com/edu/python" target="blank">Python</a>
                   </p></td>
                   <td>
                   <p><a href = "https://mentat.za.net/numpy/" target="blank">Numpy</a>
-                  <br></br><a href = "https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x" target="blank">Glob Module</a></p></td>
+                  <br></br><a href = "https://towardsdatascience.com/the-python-glob-module-47d82f4cbd2d" target="blank">Glob Module</a></p></td>
                   <td><p>
                   <a href = "https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2" target="blank">Pandas - Remaining</a></p>
                   </td>
@@ -215,8 +215,8 @@ class Course_week_1 extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/iitgai">
-                    <i className="fab fa-twitter"></i>
+                <a href="https://www.instagram.com/iitg.ai">
+                    <i className="fab fa-instagram"></i>
                   </a>
                 </li>
               </ul>

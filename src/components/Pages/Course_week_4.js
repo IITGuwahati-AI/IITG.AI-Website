@@ -110,76 +110,19 @@ class Course_week_4 extends Component {
                 </tr>
               </tbody>
             </table> */}
-            <table className="content-table" style={{}}>
-              <thead>
-              <tr>
-                  <th scope="col">Week 4</th>
-                  <th scope="col">Overview</th>
-                  <th scope="col">Topic 1</th>
-                  <th scope="col">Topic 2</th>
-                  <th scope="col">Topic 3</th>
-                </tr>
-              </thead>
-              <tbody>
-              <tr>
-                  <th scope="row">Day 1</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Lorem ipsum dolor</td>
-                  <td>Lorem ipsum dolor</td>
-                  <td>Lorem ipsum dolor</td>
-                </tr>
-              <tr>
-                  <th scope="row">Day 2</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope='row'>Day 3</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Sally</td>
-                  <td>72,400</td>
-                  <td>Students</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 4</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 5</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 6</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 7</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr className="active-row">
-                  <th scope="row" >Assignments</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-              </tbody>
-            </table>
+           <h1>Hackathon Week</h1><br></br>
+           <h3>Week 4 consists of a hackathon conducted on the basis of the topics that had been taught in the first 3 weeks of the course. Have fun experimenting new ways of applying what you've learnt!</h3>
+           <br></br>
+           <h3> Link to the hackathon - <a href = "https://www.kaggle.com/c/iitgaisummerhackathon">Link</a></h3>
             <br /> <br />
+            <h2>Solution Approach to the hackathon by IITG.ai members Debarshi Chanda and Manan Kakkar - <a href = "https://www.kaggle.com/debarshichanda/summer-hackathon-solution-approach">Link</a></h2>
+            <br></br><br></br>
+            <h2>Congratulations to the <b>Winners</b> of the Hackathon:</h2><br></br>
+            <h3> 1st Place - Rohit R : <a href = "https://docs.google.com/document/d/1_0sGUUmIcYnUZVaB1KepR7c4fxccNnYNfk59wy6EdJ4/edit">Code Link</a></h3>
+            <h3>2nd Place - Pranshu Kandoi : <a href = "https://docs.google.com/document/d/1VU4tFU5Oc-f6yiMxepD4tswdI8s1NKXDoAljovfMS-k/edit?usp=sharing">Code Link</a></h3>
+            <h3>3rd Place - Pranshu Pandya : <a href = "https://docs.google.com/document/d/1MPyZ3X26x48KJlmCa4amXKSoKx9W_dEtEV4EmxbDzQE/edit?usp=sharing">Code Link</a></h3>
+            <h3>4th Place - Amish : <a href = "https://drive.google.com/drive/folders/15iUGaUp_bf245fFDDfwxL-yKL4XU1RxM?usp=sharing">Code Link</a></h3>
+            <h3>5th Place - Varun Bharadwaj : <a href = "https://docs.google.com/document/d/1kDQKGRvGWrwDDSR5PMZBjYw6ji1hCSSRfuEFahYhiSU/edit">Code Link</a></h3>
             <h3 style={{ color: "white" }}>Follow us on social media</h3>
             <div className="footer_social contact_social">
               <ul>
@@ -204,8 +147,8 @@ class Course_week_4 extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/iitgai">
-                    <i className="fab fa-twitter"></i>
+                <a href="https://www.instagram.com/iitg.ai">
+                <i className="fab fa-instagram"></i>
                   </a>
                 </li>
               </ul>

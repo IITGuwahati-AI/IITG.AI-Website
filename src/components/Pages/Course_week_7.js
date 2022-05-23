@@ -110,76 +110,11 @@ class Course_week_7 extends Component {
                 </tr>
               </tbody>
             </table> */}
-            <table className="content-table" style={{}}>
-              <thead>
-              <tr>
-                  <th scope="col">Week 7</th>
-                  <th scope="col">Overview</th>
-                  <th scope="col">Topic 1</th>
-                  <th scope="col">Topic 2</th>
-                  <th scope="col">Topic 3</th>
-                </tr>
-              </thead>
-              <tbody>
-              <tr>
-                  <th scope="row">Day 1</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Lorem ipsum dolor</td>
-                  <td>Lorem ipsum dolor</td>
-                  <td>Lorem ipsum dolor</td>
-                </tr>
-              <tr>
-                  <th scope="row">Day 2</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope='row'>Day 3</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Sally</td>
-                  <td>72,400</td>
-                  <td>Students</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 4</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 5</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 6</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr>
-                  <th scope="row">Day 7</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-                <tr className="active-row">
-                  <th scope="row" >Assignments</th>
-                  <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus vitae quam quis ullamcorper. Praesent fringilla lorem sagittis ligula pretium.</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
-                  <td>@mdo</td>
-                </tr>
-              </tbody>
-            </table>
+            
+            <img src="img/course/WEB.png"></img>
             <br /> <br />
+            <h1>Hackathon Problem Statement- <a href="https://www.kaggle.com/c/iitgai-summer-course-capstone-challenge/overview">Link</a></h1>
+            <br></br><br></br>
             <h3 style={{ color: "white" }}>Follow us on social media</h3>
             <div className="footer_social contact_social">
               <ul>
@@ -204,8 +139,8 @@ class Course_week_7 extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/iitgai">
-                    <i className="fab fa-twitter"></i>
+                <a href="https://www.instagram.com/iitg.ai">
+                    <i className="fab fa-instagram"></i>
                   </a>
                 </li>
               </ul>
